@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
+    "openpyxl>=3.1.5",
     "pydantic>=2.14.1",
     "reportlab>=5.0.1",
     "rich>=15.0.0",
